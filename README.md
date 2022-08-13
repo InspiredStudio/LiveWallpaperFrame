@@ -1,3 +1,4 @@
 # LiveWallpaperFrame
 A demo about live wallpaper frame
-##coming soon!
+## coming soon!
+### by littlekan233

@@ -1,4 +1,7 @@
 # LiveWallpaperFrame
 A demo about live wallpaper frame
-## coming soon!
-### by littlekan233
+## v1.0.0 is comeing!🧵
+### about
+### new
+### fix bugs🐛
+### changes
